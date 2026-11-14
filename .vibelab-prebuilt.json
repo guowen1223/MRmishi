@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "processor_revision": "il2cpp-prebuild-v6",
+  "il2cpp_so_sha256": "3157487347668ed8ae2328a43079f7247e91a66ef9bb6d43220111ffb19b8dcf",
+  "global_metadata_sha256": "6f02f721b6073f81fabe7e4f24e8e36764a4538d89493f879fb050820e579cb1",
+  "unity_version": "6000.6.0f1",
+  "unity_template_version": "25",
+  "ndk_version": "27.2.12479018",
+  "abi": [
+    "arm64-v8a"
+  ],
+  "target_sdk": 36,
+  "native_inventory": [
+    {
+      "name": "lib_burst_generated.so",
+      "sha256": "c8848f7730aac7642c62c0f320861d7ad9f47ea7f8f5999c15cd07445ab7c778"
+    },
+    {
+      "name": "libil2cpp.so",
+      "sha256": "3157487347668ed8ae2328a43079f7247e91a66ef9bb6d43220111ffb19b8dcf"
+    },
+    {
+      "name": "libmain.so",
+      "sha256": "336cc7e3de4d17607bd478c314be9eaa86dc5dd5a044c44c186bcca51faac2c3"
+    },
+    {
+      "name": "libunity.so",
+      "sha256": "5e652a0a3c5c305aee9a8d154ce6932c46a5003ff99f740f9abdff273bb6f2c5"
+    }
+  ],
+  "generated_at": "2026-11-14T14:26:39.118Z"
+}
